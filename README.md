@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hello Everyone 👋!** I'm Joshua Mach (he/him), a student from California, USA studying Computer Science and Physics. I enjoy playing a wide variety of instruments like guitar, piano, and bass and have always been interested in all kinds of music 🎼! On my free time, I often like to learn about new things within the fields of Physics and Philosophy. 
 
 <!--
 **machblossom/machblossom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 
